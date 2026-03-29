@@ -14,8 +14,7 @@ Products, and Comments endpoints.
 
 ## ⚙️ Installation
 
-1.  Clone the project: git clone `<your-repo-link>`{=html} cd
-    `<project-folder>`{=html}
+1.  Clone the project:https://github.com/amixiid1/express-server.git
 
 2.  Install dependencies: npm install
 
@@ -82,5 +81,4 @@ Body: { "productionName": "MacBook", "price": 1200 }
 
 ## 👨‍💻 Author
 
-Your Name
-# express-server
+Amixiid
